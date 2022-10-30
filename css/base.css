@@ -1,33 +1,33 @@
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    text-decoration: none;
-    list-style: none;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style: none;
 }
 
-body{
+body {
   background: var(--bg);
   font-family: var(--cr);
   color: white;
-  
+
 }
 
-:root{
+:root {
   --bg: #040D1F;
   --cr: 'CR', sans-serif;
   --cb: 'CB', sans-serif;
   --mr: 'MR', sans-serif;
-  --mb: 'MB',sans-serif;
-  --rr: 'RR',sans-serif;
-  --rm: 'RM',sans-serif;
-  --orange:  #F18128;
-  --black:  #040D1F;
+  --mb: 'MB', sans-serif;
+  --rr: 'RR', sans-serif;
+  --rm: 'RM', sans-serif;
+  --orange: #F18128;
+  --black: #040D1F;
   --light-orange: #ED8E00;
-  --white: white; 
+  --white: white;
 }
 
-.container{
+.container {
   max-width: 1142px;
   padding: 0 15px;
   margin: 0 auto;
